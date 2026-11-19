@@ -1,5 +1,5 @@
 getgenv().Configs = {
-    ["Key"] = ""; -- Để trống để dùng key đã lưu hoặc nhập qua UI
+    ["Key"] = "Wnx4WVH3"; -- Để trống để dùng key đã lưu hoặc nhập qua UI
     ["Quest"] = {
         ["Evo Race V1"] = true;
         ["Evo Race V2"] = true;
